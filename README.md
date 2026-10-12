@@ -2,6 +2,8 @@
 
 I took one snapshot of the SPY option market (8 October 2026) and worked through it from raw quotes to models. I compute my own implied volatilities, build the volatility surface, calibrate the Heston and Merton models to it, and then use those models for Monte Carlo pricing and delta-hedging experiments. A last part compares 36 years of the VIX with the volatility that actually followed.
 
+Developed locally from September 2026; uploaded to GitHub in October 2026.
+
 ![Volatility surface](figures/04_surface_heatmap.png)
 
 ## Results
