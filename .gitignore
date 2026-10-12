@@ -1,0 +1,9 @@
+# raw Yahoo option chains, kept private
+spy_options_2026-10-08.csv
+spy_options_raw.csv
+
+# old copy of the 3D surface; the current one is in figures/
+/vol_surface_3d.html
+
+# Jupyter autosaves
+.ipynb_checkpoints/
